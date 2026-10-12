@@ -1,18 +1,50 @@
-## 📊 GitHub Stats
+
+<div align="center">
+
+# Hey, I'm Gabriel Moreira 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Statistics+Student+%40+ENCE;Data+Science+%7C+Quantitative+Finance;Blockchain+%7C+DeFi+%7C+Solana;Building+Data-Driven+Solutions)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a Statistics undergraduate at **ENCE / IBGE**, passionate about the intersection of mathematics, technology, and financial markets.
+
+- 📊 Interested in Data Science, Machine Learning and Quantitative Research
+- 🚀 Founder of **Liquidity Radar**
+- ⛓️ Building applications in the Solana ecosystem
+- 💡 Exploring financial modeling, risk analytics and DeFi
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,r,rust,git,github,vscode,pycharm,idea,solana&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| **Liquidity Radar** | DeFi liquidity analytics and market intelligence |
+| **SplitPay On-Chain** | On-chain split payments built on Solana |
+| **Financial Risk Lab** | Monte Carlo simulations, VaR and portfolio risk analysis |
+| **Financial Data Explorer** | Financial market analytics and visualization |
+
+### 📊 GitHub Stats
+
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielmoreira9&show_icons=true&theme=tokyonight)
 
-## 💻 Most Used Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreira9&layout=compact&theme=tokyonight)
 
-## 🛠️ Tech Stack
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 <!--
 **gabrielmoreira9/gabrielmoreira9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
